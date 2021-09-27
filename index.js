@@ -36,6 +36,11 @@ var questions = [
     question : chalk.green.bold("How many days a test cricket runs?"),
     options : "[1] It never ends\n[2] 4 days\n[3] 5 days\n",
     answer: 3
+  },
+  {
+    question : chalk.green.bold("Which team has won most number of IPL titles?"),
+    options : "[1] Chennai Super kings\n[2] Mumbai Indians\n[3] Kolkata Knight Riders\n",
+    answer: 2
   }
 
 ]
